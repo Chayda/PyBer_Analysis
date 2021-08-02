@@ -33,9 +33,10 @@
 
 ## Results
 
-![FaresFig](https://user-images.githubusercontent.com/74624855/127792023-f808d5e9-0e34-45e0-9fe3-0e7eceabfa6b.png)
+![pyber_fare_summary](https://user-images.githubusercontent.com/74624855/127792449-6702c459-4a90-44eb-8873-04e3ef30d1b1.png)
 
 The trend lines on the Number of Fares per Week line chart were pretty similar among the city types, and consistent across the four months captured in the chart.
+
 The differences in average fare per ride among the different city types is expected based on the population density of the different city types, with rural cities being the least dense, followed by suburban cities and the most being urban cities. Average fare per ride in Urban cities was the lowest, which we would expect considering urban cities are more densely populated and there were more drivers to accommodate the people, likely going shorter distances. 
 
 ## PyBer Analysis Summary:
