@@ -3,7 +3,9 @@
 ### The purpose of this analysis is to analyse the ride-sharing data from January 2019 to end-of-April 2019. We will use a summary DataFrame of this data by city type to determine how the data is different per city type and use this information to provide suggestions to the decision-makers at PyBer.
 
 ## Pyber Analysis Results
-###
+### As per the summary DataFrame:
+![SummaryDF](https://user-images.githubusercontent.com/74624855/127791996-ee6baee4-8ac9-4529-ab79-5b836d1eb7df.png)
+
 •	There were 2375 rides in total; among these:
   - Rural ride total: 125 rides.
   - Suburban ride total: 625 rides.
@@ -29,7 +31,14 @@
   - Average fare per driver for Suburban cities was $39.50.
   - Average fare per driver for Urban cities was $16.
 
-## Pyber Analysis Summary:
+## Results
+
+![FaresFig](https://user-images.githubusercontent.com/74624855/127792023-f808d5e9-0e34-45e0-9fe3-0e7eceabfa6b.png)
+
+The trend lines on the Number of Fares per Week line chart were pretty similar among the city types, and consistent across the four months captured in the chart.
+The differences in average fare per ride among the different city types is expected based on the population density of the different city types, with rural cities being the least dense, followed by suburban cities and the most being urban cities. Average fare per ride in Urban cities was the lowest, which we would expect considering urban cities are more densely populated and there were more drivers to accommodate the people, likely going shorter distances. 
+
+## PyBer Analysis Summary:
 ### Recommendations based on analysis.
 
 1) Collect information on the average distance travelled per ride by city type. Charge more per distance (km) for rides in urban cities, as there appears to be higher demand  due to population density and the likelihood that these trips are typically shorter.
